@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "BA Field Notes",
+    "slug": "ba-field-notes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F1EA"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F1EA"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
